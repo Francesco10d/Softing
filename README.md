@@ -1,7 +1,9 @@
 # Softing
 
-DOC  -> Documentazione Progetto 
-	 -> Files di LOG
+DOC  
+ -Documentazione Progetto 
+ -Files di LOG
 
-CODE -> Codice Progetto
+CODE 
+ -Codice Progetto
  
