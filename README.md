@@ -8,12 +8,12 @@
 * Lorenzo Salvi 
 * Ludovico Di Federico
 
-## DOC
+## Doc
 
 * Logs 
 * Documentazione
 
-## CODE
+## Code
 
 * Codice
 
