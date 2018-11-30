@@ -1,23 +1,21 @@
 # Softing
 
----
-
 ## Autori 
 
-*Francesco Catani
-*Salvatore Salernitano
-*Marco Poscente 
-*Lorenzo Salvi 
-*Ludovico Di Federico
+* Francesco Catani
+* Salvatore Salernitano
+* Marco Poscente 
+* Lorenzo Salvi 
+* Ludovico Di Federico
 
 ## DOC
 
-*Logs 
-*Documentazione
+* Logs 
+* Documentazione
 
 ## CODE
 
-*Codice
+* Codice
 
 
 
