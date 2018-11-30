@@ -1,9 +1,24 @@
 # Softing
 
-DOC  
- -Documentazione Progetto 
- -Files di LOG
+---
 
-CODE 
- -Codice Progetto
+## Autori 
+
+*Francesco Catani
+*Salvatore Salernitano
+*Marco Poscente 
+*Lorenzo Salvi 
+*Ludovico Di Federico
+
+## DOC
+
+*Logs 
+*Documentazione
+
+## CODE
+
+*Codice
+
+
+
  
