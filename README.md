@@ -10,8 +10,7 @@
 
 ## Doc
 
-* Logs 
-* Documentazione
+* Documentazione (LOG-PNG-XML)
 
 ## Code
 
