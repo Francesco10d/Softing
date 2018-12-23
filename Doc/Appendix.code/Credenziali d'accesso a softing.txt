@@ -1,0 +1,7 @@
+Come amministratore:
+Username: Muccini23 
+Password: muc123
+
+Come Gestore dei sensori:
+Username: Tobia56 
+Password: tob56
