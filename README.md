@@ -10,7 +10,7 @@
 
 ## Doc
 
-* Documentazione (LOG-PNG-XML)
+* Documentazione (Appendix.code-LOG-PNG-Relazione-XML)
 
 ## Code
 
