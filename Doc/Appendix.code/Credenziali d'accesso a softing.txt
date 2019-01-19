@@ -2,6 +2,15 @@ Come amministratore:
 Username: Muccini23 
 Password: muc123
 
-Come Gestore dei sensori:
+Come Gestore dei sensori (Città):
+Username: Salvatore96
+Password: sal96
+
+Come Gestore dei sensori (Area):
 Username: Tobia56 
 Password: tob56
+
+Come Gestore dei sensori (Edificio):
+Username: Fabrizio96
+Password: fab96
+
