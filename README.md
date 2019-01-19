@@ -12,9 +12,7 @@
 
 * Documentazione (Appendix.code-LOG-PNG-Relazione-XML)
 
-## Code
 
-* Codice
 
 
 
